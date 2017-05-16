@@ -2,7 +2,7 @@
 
 This is the code for the paper
 
-**[Data-Driven Interference Management Configuration in HetNets](#)**,
+**[Data-Driven Configuration of Interference Coordination Parameters in HetNets](#)**,
 <br>
 [Jose A. Ayala-Romero](#),
 [Juan J. Alcaraz](http://ait.upct.es/jjalcaraz/),
